@@ -9,7 +9,7 @@ Download file terlebih dahulu ke dalam penyimpanan perangkat
 ## Cara Menjalankan
 
 ```
-# 1. ketikkan cmd pada kolom <img width="1189" height="487" alt="image" src="https://github.com/user-attachments/assets/79ecd910-1fce-4842-8d7f-f58750e436c9" />
+# 1. ketikkan 'cmd' pada kolom lokasi file di file explorer
 
 # 2. Install dependencies
 npm install
@@ -17,6 +17,8 @@ npm install
 # 3. Jalankan dev server
 npm run dev
 ```
+<img width="1189" height="487" alt="image" src="https://github.com/user-attachments/assets/498309d0-c536-4a6b-b6be-496c0b862e69" />
+
 
 Buka browser ke `http://localhost:5173`
 
