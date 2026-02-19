@@ -11,16 +11,14 @@ Download file terlebih dahulu ke dalam penyimpanan perangkat
 ```
 # 1. ketikkan 'cmd' pada kolom lokasi file di file explorer
 
-# 2. Install dependencies
-npm install
+# 2. Install dependencies dengan mengketikkan 'npm install' pada cmd yang sudah terbuka
 
-# 3. Jalankan dev server
-npm run dev
+# 3. Jalankan dev server jika proses instalasi sudah selesai dengan mengketikkan 'npm run dev' pada cmd
 ```
 <img width="1189" height="487" alt="image" src="https://github.com/user-attachments/assets/498309d0-c536-4a6b-b6be-496c0b862e69" />
 
 
-Buka browser ke `http://localhost:5173`
+Jika sudah buka browser lalu masukkan `http://localhost:5173` pada koom pencarian agar dapat mengakses website aplikasi
 
 ## Akun Login (Hardcode)
 
