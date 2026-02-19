@@ -2,6 +2,8 @@
 
 Aplikasi CRUD produk dengan login menggunakan Vue 3, Vite, Vue Router, dan Pinia.
 
+Untuk lebih mudahnya dapat mendownload langsung dari zip file yang ada di github ini
+
 ## Struktur Folder
 
 ```
