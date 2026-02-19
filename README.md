@@ -2,7 +2,30 @@
 
 Aplikasi CRUD produk dengan login menggunakan Vue 3, Vite, Vue Router, dan Pinia.
 
-Untuk lebih mudahnya dapat mendownload langsung dari zip file yang ada di github ini
+Untuk lebih mudahnya dapat mendownload langsung dari zip file dengan nama product-manager yang ada di github ini
+
+Download file terlebih dahulu ke dalam penyimpanan perangkat
+
+## Cara Menjalankan
+
+```
+# 1. ketikkan cmd pada kolom <img width="1189" height="487" alt="image" src="https://github.com/user-attachments/assets/79ecd910-1fce-4842-8d7f-f58750e436c9" />
+
+# 2. Install dependencies
+npm install
+
+# 3. Jalankan dev server
+npm run dev
+```
+
+Buka browser ke `http://localhost:5173`
+
+## Akun Login (Hardcode)
+
+| Username | Password  |
+|----------|-----------|
+| admin    | admin123  |
+| user     | user123   |
 
 ## Struktur Folder
 
@@ -30,28 +53,6 @@ product-manager/
         ├── ConfirmDelete.vue    # Modal konfirmasi hapus
         └── ToastNotification.vue # Notifikasi toast
 ```
-
-## Cara Menjalankan
-
-```bash
-# 1. Masuk ke folder project
-cd product-manager
-
-# 2. Install dependencies
-npm install
-
-# 3. Jalankan dev server
-npm run dev
-```
-
-Buka browser ke `http://localhost:5173`
-
-## Akun Login (Hardcode)
-
-| Username | Password  |
-|----------|-----------|
-| admin    | admin123  |
-| user     | user123   |
 
 ## Fitur
 
